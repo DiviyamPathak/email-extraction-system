@@ -1,0 +1,190 @@
+[
+  {
+    "code": "AEJEA",
+    "name": "Jebel Ali"
+  },
+  {
+    "code": "BDDAC",
+    "name": "Dhaka"
+  },
+  {
+    "code": "CNGZG",
+    "name": "Guangzhou"
+  },
+  {
+    "code": "CNNSA",
+    "name": "Nansha"
+  },
+  {
+    "code": "CNQIN",
+    "name": "Qingdao"
+  },
+  {
+    "code": "CNSHA",
+    "name": "Shanghai"
+  },
+  {
+    "code": "CNSZX",
+    "name": "Shenzhen"
+  },
+  {
+    "code": "CNSZX",
+    "name": "Shenzhen / Guangzhou"
+  },
+  {
+    "code": "CNTXG",
+    "name": "Tianjin / Xingang"
+  },
+  {
+    "code": "CNTXG",
+    "name": "Xingang"
+  },
+  {
+    "code": "CNTXG",
+    "name": "Xingang / Tianjin"
+  },
+  {
+    "code": "DEHAM",
+    "name": "Hamburg"
+  },
+  {
+    "code": "HKHKG",
+    "name": "Hong Kong"
+  },
+  {
+    "code": "IDSUB",
+    "name": "Surabaya"
+  },
+  {
+    "code": "INBLR",
+    "name": "Bangalore ICD"
+  },
+  {
+    "code": "INBLR",
+    "name": "ICD Bangalore"
+  },
+  {
+    "code": "INMAA",
+    "name": "Bangalore ICD"
+  },
+  {
+    "code": "INMAA",
+    "name": "Chennai"
+  },
+  {
+    "code": "INMAA",
+    "name": "Chennai ICD"
+  },
+  {
+    "code": "INMAA",
+    "name": "Chennai ICD / Bangalore ICD / Hyderabad ICD"
+  },
+  {
+    "code": "INMAA",
+    "name": "Chennai ICD / Hyderabad ICD / Bangalore ICD"
+  },
+  {
+    "code": "INMAA",
+    "name": "India (Chennai)"
+  },
+  {
+    "code": "INMUN",
+    "name": "Mundra ICD"
+  },
+  {
+    "code": "INNSA",
+    "name": "Nhava Sheva"
+  },
+  {
+    "code": "INWFD",
+    "name": "ICD Whitefield"
+  },
+  {
+    "code": "ITGOA",
+    "name": "Genoa"
+  },
+  {
+    "code": "JPOSA",
+    "name": "Osaka"
+  },
+  {
+    "code": "JPUKB",
+    "name": "Japan"
+  },
+  {
+    "code": "JPYOK",
+    "name": "Yokohama"
+  },
+  {
+    "code": "KRPUS",
+    "name": "Busan"
+  },
+  {
+    "code": "KRPUS",
+    "name": "Chennai"
+  },
+  {
+    "code": "MYPKG",
+    "name": "Colombo"
+  },
+  {
+    "code": "MYPKG",
+    "name": "Port Klang"
+  },
+  {
+    "code": "PHMNL",
+    "name": "Manila"
+  },
+  {
+    "code": "SAJED",
+    "name": "Jeddah / Dammam / Riyadh"
+  },
+  {
+    "code": "SGSIN",
+    "name": "Singapore"
+  },
+  {
+    "code": "THBKK",
+    "name": "Bangkok"
+  },
+  {
+    "code": "THBKK",
+    "name": "Bangkok ICD"
+  },
+  {
+    "code": "THLCH",
+    "name": "Laem Chabang"
+  },
+  {
+    "code": "TRAMR",
+    "name": "Ambarli"
+  },
+  {
+    "code": "TRAMR",
+    "name": "Ambarli / Izmir"
+  },
+  {
+    "code": "TRIZM",
+    "name": "Izmir"
+  },
+  {
+    "code": "TWKEL",
+    "name": "Keelung"
+  },
+  {
+    "code": "USHOU",
+    "name": "Houston"
+  },
+  {
+    "code": "USLAX",
+    "name": "Los Angeles / Houston / Long Beach"
+  },
+  {
+    "code": "VNSGN",
+    "name": "Ho Chi Minh"
+  },
+  {
+    "code": "ZACPT",
+    "name": "Cape Town"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "id": "EMAIL_001",
+    "subject": "LCL EXPORT ENQUIRY // Chennai to Busan // Tyre Moulds",
+    "body": "Dear Sujatha, Please advise LCL export rates ex Chennai to Busan. POL Chennai, India; POD Busan, Korea. Terms FOB Chennai. Commodity: tyre moulds and accessories, 1,980 KGS, 3.8 CBM, wooden crates, non-DG, stackable. Kindly send freight, export charges and transit time. Regards, Ravi / Tyre Tools India.",
+    "sender_email": "sales@tyretoolsindia.in",
+    "to_emails": "sujatha.csvchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_002",
+    "subject": "Bangkok to Chennai",
+    "body": "3 cbm LCL Bangkok to Chennai.",
+    "sender_email": "exports@thlog.com",
+    "to_emails": "priya.impchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_003",
+    "subject": "SEA IMPORT RFQ // Shanghai to Chennai // Auto Components",
+    "body": "Dear Priya, Kindly provide sea import LCL rate ex Shanghai to Chennai. POL Shanghai CNSHA; POD Chennai INMAA. Terms FCA Shanghai. Commodity urgent auto components non-DG 260 KGS 1.0 CBM. Please advise ocean freight documentation charges and Chennai local charges. Regards Leo / CN Air Express.",
+    "sender_email": "air@cnair-express.cn",
+    "to_emails": "priya.impchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_004",
+    "subject": "Nansha to Chennai PPG",
+    "body": "Need LCL 470 cbm Nansha to Chennai ICD PPG.",
+    "sender_email": "imp@geodis.com",
+    "to_emails": "priya.impchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_005",
+    "subject": "Singapore to Chennai",
+    "body": "Non-stackable 1.1 cbm SIN \u2192 Chennai.",
+    "sender_email": "sin@sgco.com",
+    "to_emails": "priya.impchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_006",
+    "subject": "LCL DG RFQ // SHA \u2192 MAA ICD",
+    "body": "Dear Priya, Requesting DG LCL import rates for a shipment ex SHA (Shanghai) to ICD MAA (final dest Chennai ICD). Cargo: UN 1993 Flammable Liquid NOS, PG II, packed 4 CMB UN-approved drums. Approx wt 1800 KGS / 3.8 CBM. Shipper insisting FCA SHA. Please confirm DG surcharge, MSDS reqs, CFS handling, dest THC + ICD handling. Regards, Kevin / CN Logistics.",
+    "sender_email": "kevin@cnlogistics.cn",
+    "to_emails": "[priya.impchn@globelinkww.com]",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_007",
+    "subject": "LCL RFQ ex Saudi to India ICD",
+    "body": "JED\u2192MAA ICD 1.9 cbm; DAM\u2192BLR ICD 3 RT; RUH\u2192HYD ICD 850kg.",
+    "sender_email": "freight@ksa-logistics.com",
+    "to_emails": "priya.impchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_008",
+    "subject": "LCL IMPORT RFQ // Keelung to Chennai // Toys",
+    "body": "Dear Sujatha, Request to quote your LCL import rates Keelung to Chennai for toy consignment. POL Keelung, Taiwan; POD Chennai, India. Incoterm FOB Keelung. Commodity: plastic toys and board games, non-DG, in color printed cartons, 580 KGS, 2.0 CBM, stackable. Please confirm freight, local charges and transit times for this lane. Looking forward to your best offer. Regards, Chen / Taiwan Cargo.",
+    "sender_email": "sales@twcargo.com",
+    "to_emails": "sujatha.csvchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_009",
+    "subject": "Surabaya to Chennai",
+    "body": "3.3 cbm SUB \u2192 Chennai.",
+    "sender_email": "ops@id.com",
+    "to_emails": "priya.impchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_010",
+    "subject": "LCL IMPORT // Izmir to Chennai // Machinery Spares",
+    "body": "Dear Team, Kindly offer your LCL import rate for Izmir to Chennai. POL Izmir, Turkey; POD Chennai, India. Terms FOB Izmir. Cargo: machinery spares for textile mill, packed on 2 pallets, 830 KGS, 2.0 CBM, stackable. Please include local charges and usual transit time. Regards, Ayse / TR Freight Turkey.",
+    "sender_email": "pricing@trfreight.com.tr",
+    "to_emails": "priya.impchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_011",
+    "subject": "Return shipment to Chennai",
+    "body": "Return of Japanese goods back to Chennai, 1.8 cbm.",
+    "sender_email": "ops@return.com",
+    "to_emails": "sujatha.csvchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_012",
+    "subject": "LCL IMPORT RFQ // Genoa to Nhava Sheva // Machinery",
+    "body": "Dear Priya, Please provide LCL import rate Genoa to Nhava Sheva. POL Genoa, Italy; POD Nhava Sheva, India. Terms FOB Genoa. Commodity: machinery for packaging line, 1,150 KGS, 2.4 CBM, wooden case, stackable. Kindly share ocean freight, local charges at both ends and transit time. Regards, Marco / IT Lines.",
+    "sender_email": "pricing@itlines.it",
+    "to_emails": "priya.impchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_013",
+    "subject": "LCL RFQ ex Istanbul / Izmir",
+    "body": "Ambarli\u2192MAA ICD 2.4 cbm; Ambarli\u2192HYD ICD 600kg; Izmir\u2192BLR ICD 1.2 cbm.",
+    "sender_email": "pricing@tr-freight.com",
+    "to_emails": "priya.impchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_014",
+    "subject": "LCL IMPORT RATE // Xingang to Chennai ICD // Briefcases",
+    "body": "Dear Sujatha, Kindly quote your best LCL ocean freight for the below new shipment. POL: Xingang, China. POD: Chennai ICD, India. Terms: FOB shipper's factory. Cargo details: 1 pallet, 260 KGS gross, 1.2 CBM, commodity: PU briefcases packed in cartons, stackable. Please include local charges at destination, standard free time and current sailing options ex Xingang to Chennai ICD via Chennai. Also advise if any peak season surcharge is applicable this week. Thanks and regards, Ramesh, Pricing Desk, Syena Logistics.",
+    "sender_email": "pricing@syenalogistics.com",
+    "to_emails": "sujatha.csvchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_015",
+    "subject": "LCL IMPORTS ex Jebel Ali",
+    "body": "JBL\u2192MAA ICD 2.2 cbm; JBL\u2192HYD ICD 750kg; JBL\u2192BLR ICD 1.9 cbm.",
+    "sender_email": "dxbops@gl-dubai.com",
+    "to_emails": "sujatha.csvchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_016",
+    "subject": "ENQ // LCL IMPORT // Osaka to Chennai // Rubber Components",
+    "body": "Dear Team, Please share your LCL console rate from Osaka, Japan to Chennai, India. POL Osaka; POD Chennai. Terms: FOB Osaka. Commodity: rubber components for automotive industry, non-DG, 32 cartons, 640 KGS, 2.3 CBM, stackable. Buyer also wants to know if any rubber board NOC is needed at destination. Kindly send ocean freight, local charges both ends and expected transit. Regards, Manoj / India-Japan Logistics.",
+    "sender_email": "manoj@ijlogistics.in",
+    "to_emails": "priya.impchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_017",
+    "subject": "DG RFQ // SHA \u2192 BLR ICD",
+    "body": "Hi Team, Need LCL DG SHA\u2192BLR ICD. UN 2430 Amines Liquid PG II, 400 KG/1.1 CBM, supplier shipping CIF SHA. Regards, Yao.",
+    "sender_email": "yao@chinachem.cn",
+    "to_emails": "[priya.impchn@globelinkww.com]",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_018",
+    "subject": "Yokohama to Chennai",
+    "body": "YOK \u2192 Chennai 2.6 cbm.",
+    "sender_email": "ops@yoko.com",
+    "to_emails": "sujatha.csvchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_019",
+    "subject": "ICD Whitefield via Chennai",
+    "body": "HAM to ICD WHITEFIELD, routed via Chennai. 3.5 cbm, 820 kg. FOB Hamburg.",
+    "sender_email": "pricing@euagent.com",
+    "to_emails": "priya.impchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_020",
+    "subject": "Singapore to Chennai",
+    "body": "Non-stackable 1.1 cbm SIN \u2192 Chennai.",
+    "sender_email": "sin@sgco.com",
+    "to_emails": "priya.impchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_021",
+    "subject": "Two shipments (1/2)",
+    "body": "1) SHANGHAI \u2192 CHENNAI ICD: 3 cbm, 550 kg.",
+    "sender_email": "sales.cn@forwarder.com",
+    "to_emails": "priya.impchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_022",
+    "subject": "MULTI DG RFQ // CNSZX \u2192 MAA",
+    "body": "Dear Team, two DG items in same shipment: UN 2920 Flammable Liquid 1.4 CBM/650 KG + UN 3109 Organic Peroxide 0.9 CBM/320 KG. POD MAA. CIF Shenzhen. Regards, Fang.",
+    "sender_email": "fang@supplysz.cn",
+    "to_emails": "[priya.impchn@globelinkww.com]",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_023",
+    "subject": "EXPORT LCL RFQ // Chennai to ICD Bangkok via Laem Chabang // Auto Parts",
+    "body": "Dear Priya, We need LCL export rate from Chennai to Bangkok ICD via Laem Chabang. POL Chennai, India; POD Laem Chabang, Thailand; final destination ICD Bangkok. Incoterm FOB Chennai. Commodity: auto parts, 1,260 KGS, 2.9 CBM, cartons, stackable. Please advise freight to LCH, on-carriage to Bangkok ICD and export local charges. Regards, Karthik / Auto India.",
+    "sender_email": "pricing@autoindia.in",
+    "to_emails": "priya.impchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_024",
+    "subject": "Jebel Ali to Chennai ICD",
+    "body": "Need LCL rate 2.4 RT Jebel Ali \u2192 Chennai ICD.",
+    "sender_email": "ops@middleeast.com",
+    "to_emails": "priya.impchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_025",
+    "subject": "MULTI DG RFQ // CNSZX \u2192 MAA",
+    "body": "Same email second enquiry: UN 3109 Organic Peroxide, 320 KG/0.9 CBM.",
+    "sender_email": "fang@supplysz.cn",
+    "to_emails": "[priya.impchn@globelinkww.com]",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_026",
+    "subject": "Xingang/Tianjin to Chennai ICD",
+    "body": "Need LCL 1 RT ex Xingang/Tianjin to Chennai PPG.",
+    "sender_email": "pricing@syena.com",
+    "to_emails": "sujatha.csvchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_027",
+    "subject": "IMPORT LCL // Ambarli to ICD Bangalore // Spare Parts",
+    "body": "Dear Sujatha, Kindly provide us with your LCL import quote for shipment from Ambarli, Istanbul to ICD Bangalore via Chennai. Details as follows: Port of loading Ambarli, Turkey; port of discharge Chennai; final destination ICD Bangalore. Terms FOB Ambarli warehouse. Cargo: industrial spare parts for printing machines, packed on 1 crate, dimensions 175 x 120 x 140 cm, gross weight 850 KGS, volume approx 2.94 CBM, stackable. Please advise ocean freight up to Chennai, on-carriage to BLR ICD, CFS and documentation charges, plus any over-height handling if applicable. Waiting for your earliest offer. Best regards, Mehmet / TR Freight.",
+    "sender_email": "ops@trfreight.com.tr",
+    "to_emails": "sujatha.csvchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_028",
+    "subject": "LCL Import RFQ // Qingdao to BLR ICD // Non-stackable 2 CBM",
+    "body": "Cargo non-stackable, 2 cbm, Qingdao to BLR ICD.",
+    "sender_email": "qd@cn.com",
+    "to_emails": "sujatha.csvchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_029",
+    "subject": "Ho Chi Minh to Chennai",
+    "body": "3.1 cbm HCM \u2192 Chennai, DG Class 3.",
+    "sender_email": "sales@vnfreight.com",
+    "to_emails": "priya.impchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_030",
+    "subject": "DG RFQ // CPT \u2192 MAA",
+    "body": "Hi, Need DG LCL from CPT (Cape Town) to MAA. UN 3105 Organic Peroxide Type D, 270 KG/0.8 CBM. FCA CPT. Regards, Peter.",
+    "sender_email": "peter@afrchem.co.za",
+    "to_emails": "[priya.impchn@globelinkww.com]",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_031",
+    "subject": "DG RFQ // HOU \u2192 MAA",
+    "body": "Hi, Please quote DG LCL HOU\u2192MAA. UN 1105 Pentane, PG I, 350 KG/0.9 CBM. FOB Houston. Regards, Miller.",
+    "sender_email": "miller@uschem.com",
+    "to_emails": "[priya.impchn@globelinkww.com]",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_032",
+    "subject": "Shanghai to Mundra ICD",
+    "body": "FOB LCL Shanghai to Mundra ICD, 3.9 cbm.",
+    "sender_email": "cha.chennai@tcil.com",
+    "to_emails": "sujatha.csvchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_033",
+    "subject": "Keelung to Chennai",
+    "body": "LCL 1.8 cbm KEL \u2192 Chennai.",
+    "sender_email": "sales@twcargo.com",
+    "to_emails": "priya.impchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_034",
+    "subject": "Manila to Chennai ICD",
+    "body": "FOB LCL MNL \u2192 Chennai ICD 1.5 RT.",
+    "sender_email": "booking@ph.com",
+    "to_emails": "priya.impchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_035",
+    "subject": "Dhaka to Chennai ICD",
+    "body": "FOB LCL 0.2 RT Dhaka to Chennai ICD PPG.",
+    "sender_email": "maa-sales@bluewave.in",
+    "to_emails": "priya.impchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_036",
+    "subject": "NEW LCL IMPORT ENQUIRY // Yokohama to Chennai ICD // OOG Machinery Part",
+    "body": "Dear Priya, Kindly quote LCL rate for an OOG type machinery spare moving from Yokohama to Chennai ICD. POL Yokohama, Japan; POD Chennai, India; final destination Chennai ICD. Term FOB Yokohama. Cargo: 1 heavy machine part on skid, length 260 cm, width 140 cm, height 180 cm, gross weight 3,200 KGS, volume about 6.6 CBM, non-stackable. Please inform feasibility on LCL, any OOG surcharge, ocean freight, origin and destination handling charges, and whether special lashing required. Thanks, Hiro / JP Projects.",
+    "sender_email": "projects@yokoprojects.jp",
+    "to_emails": "priya.impchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_037",
+    "subject": "Guangzhou \u2192 Chennai",
+    "body": "LCL via HKG: Guangzhou to Chennai, 5 cbm.",
+    "sender_email": "client@abc.com",
+    "to_emails": "priya.impchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_038",
+    "subject": "China to India",
+    "body": "Kindly quote LCL China \u2192 India. Port is Tianjin/Xingang. Destination Chennai port. 1 pallet 260 kg, 1.1 cbm.",
+    "sender_email": "info@cnshipper.com",
+    "to_emails": "priya.impchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_039",
+    "subject": "DG RFQ // PUS \u2192 MAA",
+    "body": "Dear Priya, UN 2735 Amines Liquid Corrosive, 410 KG/1.0 CBM from PUS\u2192MAA. FOB PUS. Regards, Min.",
+    "sender_email": "min@korealog.kr",
+    "to_emails": "[priya.impchn@globelinkww.com]",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_040",
+    "subject": "IMPORT LCL // Hong Kong to Chennai ICD // Electronic Spares",
+    "body": "Dear Priya, Good day. Please provide your best LCL import rates from Hong Kong to Chennai ICD. POL HONG KONG; POD CHENNAI ICD. Terms: FOB Hong Kong. Commodity: electronic spares and cables, non-hazardous, packed in 22 cartons, gross weight 410 KGS, volume 1.3 CBM, stackable. Kindly advise ocean freight, origin and destination charges, CFS cut-offs and transit details. Best regards, Kelvin / HK Co.",
+    "sender_email": "ops@hkco.com.hk",
+    "to_emails": "priya.impchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_041",
+    "subject": "DG RFQ // SHA \u2192 MAA",
+    "body": "Hi Priya, Need DG import LCL SHA\u2192MAA UN 2800 Batteries Acid Filled, 700 KG/1.2 CBM. FOB SHA. Regards, Wen.",
+    "sender_email": "wen@chinabattery.cn",
+    "to_emails": "[priya.impchn@globelinkww.com]",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_042",
+    "subject": "LCL IMPORT ENQUIRY // Busan to Nhava Sheva // Auto Parts",
+    "body": "Dear Team, Please share your LCL import rate Busan to Nhava Sheva for auto parts. POL Busan, Korea; POD Nhava Sheva, India. Terms FOB Busan. Commodity: auto parts and filters, 1,420 KGS, 3.1 CBM, cartons on pallets, stackable. Kindly send freight, local charges and transit details. Regards, Lee / KR Logistics.",
+    "sender_email": "pricing@kr-logistics.kr",
+    "to_emails": "priya.impchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_043",
+    "subject": "LCL IMPORT RATES ex USA",
+    "body": "LAX\u2192MAA ICD 2.3 cbm; HOU\u2192HYD ICD 850kg; LGB\u2192BLR ICD 1 RT.",
+    "sender_email": "usaops@gl-usa.com",
+    "to_emails": "sujatha.csvchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_044",
+    "subject": "Shenzhen/Guangzhou mix",
+    "body": "Cargo 1.1 cbm ex Shenzhen or Guangzhou to Chennai.",
+    "sender_email": "sales@mix.cn",
+    "to_emails": "priya.impchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_045",
+    "subject": "IMPORT LCL RFQ // Busan to Chennai // Steel Hardware",
+    "body": "Dear Sujatha, We have a repeat LCL shipment ex Busan to Chennai for steel hardware items. Please reconfirm your best LCL import rate and current schedule. POL Busan, Korea; POD Chennai, India. Incoterm FOB Busan. Commodity: steel fasteners and brackets, HS code 731815, packed in gunny bags & cartons on pallets, total 1,980 KGS, 4.1 CBM, stackable. Kindly indicate ocean freight, origin local charges, destination CFS/THC/DO charges and approximate transit time. Regards, Lee / KR Cargo.",
+    "sender_email": "pricing@krcargo.kr",
+    "to_emails": "sujatha.csvchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_046",
+    "subject": "LCL IMPORT DG // Port Klang to Chennai ICD // Paint Thinner",
+    "body": "Dear Sujatha, Please advise LCL DG rate ex Port Klang to Chennai ICD for the following. POL Port Klang, Malaysia; POD Chennai ICD, India. Incoterm: FOB Port Klang. Commodity: paint thinner, UN 1263 Class 3, packed in metal cans inside 3 pallets, total 650 KGS, 1.4 CBM, non-stackable. Kindly confirm DG surcharge, required docs and next available sailing. Regards, Alya / Globelink PKG.",
+    "sender_email": "tspkg@globelink.com.my",
+    "to_emails": "sujatha.csvchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_047",
+    "subject": "Chennai to Colombo",
+    "body": "LCL 1.2 cbm Chennai \u2192 Colombo.",
+    "sender_email": "exports@in.com",
+    "to_emails": "sujatha.csvchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_048",
+    "subject": "ENQ // LCL IMPORT // Laem Chabang to Chennai // Food Additives",
+    "body": "Dear Sujatha, Request you to please quote LCL import rates for shipment from Laem Chabang to Chennai. Details: POL Laem Chabang, Thailand; POD Chennai, India. Terms FOB supplier's factory near Bangkok. Cargo: food additives in plastic drums, non-DG, chilled condition not required, 600 KGS, 1.5 CBM, stackable. Buyer also needs info on any FSSAI or special documentation requirement at Chennai for such additives. Kindly send your best ocean freight, origin/destination THC, CFS handling charges, and approximate transit time. Warm regards, Nithi / Thai Exports Co.",
+    "sender_email": "sales@thaiexports.co.th",
+    "to_emails": "sujatha.csvchn@globelinkww.com",
+    "cc_emails": ""
+  },
+  {
+    "id": "EMAIL_049",
+    "subject": "Ambarli \u2192 Bangalore ICD",
+    "body": "Non-stackable 2.54 cbm Ambarli to Bangalore ICD.",
+    "sender_email": "angelgan@globelink.com",
+    "to_emails": "priya.impchn@globelinkww.com",
+    "cc_emails": "sujatha.csvchn@globelinkww.com"
+  },
+  {
+    "id": "EMAIL_050",
+    "subject": "LCL Import RFQ // Busan to Chennai (India) // 4 CBM",
+    "body": "Shipment from Busan to India, 4 cbm.",
+    "sender_email": "ops@kr.com",
+    "to_emails": "sujatha.csvchn@globelinkww.com",
+    "cc_emails": ""
+  }
+]
